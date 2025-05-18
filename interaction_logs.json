@@ -1,0 +1,87 @@
+[
+    {
+        "timestamp": "2025-05-12 22:52:21",
+        "user_input": "feelings",
+        "ai_response": "Analyzing your emotion..."
+    },
+    {
+        "timestamp": "2025-05-12 22:52:30",
+        "user_input": "unable to speak",
+        "ai_response": "I'm not sure I understand. Can you please rephrase?"
+    },
+    {
+        "timestamp": "2025-05-12 22:52:42",
+        "user_input": "get preference",
+        "ai_response": "Your preference for  is No preference set for this.."
+    },
+    {
+        "timestamp": "2025-05-12 22:53:02",
+        "user_input": "recommend something",
+        "ai_response": "Recommending something based on your preferences..."
+    },
+    {
+        "timestamp": "2025-05-12 22:53:44",
+        "user_input": "search",
+        "ai_response": "Searching for  on Gemini..."
+    },
+    {
+        "timestamp": "2025-05-12 22:54:50",
+        "user_input": "what is nuclear bomb search on wikipedia",
+        "ai_response": "Searching Wikipedia for nuclear bomb search on wikipedia..."
+    },
+    {
+        "timestamp": "2025-05-12 22:55:55",
+        "user_input": "who is the father of physics search on wikipedia",
+        "ai_response": "Searching Wikipedia for the father of physics search on wikipedia..."
+    },
+    {
+        "timestamp": "2025-05-12 22:56:30",
+        "user_input": "stop",
+        "ai_response": "Stopping the program. Goodbye"
+    },
+    {
+        "timestamp": "2025-05-12 23:02:38",
+        "user_input": "saptiya",
+        "ai_response": "I'm not sure I understand. Can you please rephrase?"
+    },
+    {
+        "timestamp": "2025-05-12 23:12:56",
+        "user_input": "saptiya",
+        "ai_response": "I'm not sure I understand. Can you please rephrase?"
+    },
+    {
+        "timestamp": "2025-05-12 23:13:10",
+        "user_input": "hello",
+        "ai_response": "I'm not sure I understand. Can you please rephrase?"
+    },
+    {
+        "timestamp": "2025-05-12 23:13:24",
+        "user_input": "how are you",
+        "ai_response": "I'm great, ready to assist you!"
+    },
+    {
+        "timestamp": "2025-05-12 23:13:32",
+        "user_input": "nee eppadi",
+        "ai_response": "I'm not sure I understand. Can you please rephrase?"
+    },
+    {
+        "timestamp": "2025-05-14 11:40:55",
+        "user_input": "how to recover gmail search on wikipedia",
+        "ai_response": "Searching for how to recover gmail  on wikipedia on Gemini..."
+    },
+    {
+        "timestamp": "2025-05-14 11:41:30",
+        "user_input": "about thalapathy vijay search on wikipedia",
+        "ai_response": "Searching for about thalapathy vijay  on wikipedia on Gemini..."
+    },
+    {
+        "timestamp": "2025-05-14 11:42:00",
+        "user_input": "about thalapathy vijay search wikipedia",
+        "ai_response": "Searching for about thalapathy vijay  wikipedia on Gemini..."
+    },
+    {
+        "timestamp": "2025-05-14 11:43:01",
+        "user_input": "shashi kumar movie search on wikipedia",
+        "ai_response": "Searching for shashi kumar movie  on wikipedia on Gemini..."
+    }
+]

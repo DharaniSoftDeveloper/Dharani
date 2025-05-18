@@ -1,0 +1,13 @@
+{
+  "name": "user_preferences.json",
+    "author": "Dharani",
+    "password": "Dharani@123",
+    "license": "ISC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
